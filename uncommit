@@ -1,0 +1,37 @@
+
+      // console.log('All list  ' + list);
+      // console.log('First  ' + firstRow);
+      // console.log(firstRow[0]);
+      // console.log(firstRow[1]);
+      // console.log(firstRow[2]);
+      // console.log(firstRow[3]);
+
+      // for (const i in list) {
+      //   var tbl = document.createElement('table');
+      //   var tblBody = document.createElement('tbody');
+      //   var row = document.createElement('tr');
+      //   var cell = document.createElement('td');
+
+      //   var cellText = document.createTextNode(list[i] + i);
+      //   cell.appendChild(cellText);
+      //   row.appendChild(cell);
+      //   tblBody.appendChild(row);
+      //   tbl.appendChild(tblBody);
+      //   tbl.setAttribute('border', '2');
+      //   document.body.appendChild(tbl);
+      // }
+
+      //   function getQuestions(data) {
+
+      //     'firstRow[0]'  : '',
+      //     'firstRow[1]'  : '',
+      //     'firstRow[2]'  : '',
+      //     'firstRow[3]'  : '';
+      //  }
+
+      // for (const i in list) {
+      //   console.log(`${i}`);
+      //   for (const j in list[i]) {
+      //     console.log(` ${list[i][j]}`);
+      //   }
+      // }

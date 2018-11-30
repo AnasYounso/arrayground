@@ -1,0 +1,33 @@
+body {
+  background-color: rgba(88, 27, 73, 0.753);
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  width: 200px;
+  margin: 1% auto;
+}
+
+table {
+  margin: 10px auto;
+  padding: 0.6px;
+  text-align: center;
+  color: #302135d5;
+  background-color: #634981ab;
+}
+
+h1 {
+  margin: 2% auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+  color: bisque;
+}
+
+table :first-child {
+  padding: 1%;
+  background-color: #cbb4e6ab;
+}
+a {
+  color: rgba(114, 114, 230, 0.849);
+  text-decoration: none;
+}
